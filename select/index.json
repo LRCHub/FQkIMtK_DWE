@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ともだちと呼べる幸せ",
+  "base_artist": "JUNNA",
+  "createdAt": "2026-03-05T01:15:32.495147Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ともだちと呼べる幸せ",
+      "artist": "JUNNA",
+      "has_synced": false,
+      "path": "select/01_ともだちと呼べる幸せ_JUNNA.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ともだちと呼べる幸せ instrumental",
+      "artist": "JUNNA",
+      "has_synced": true,
+      "path": "select/02_ともだちと呼べる幸せ_instrumental_JUNNA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ともだちと呼べる幸せ",
+      "artist": "JUNNA",
+      "has_synced": false,
+      "path": "select/pl_01_ともだちと呼べる幸せ_JUNNA.txt"
+    }
+  ]
+}
